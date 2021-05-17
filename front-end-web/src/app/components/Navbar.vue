@@ -6,7 +6,7 @@
                 app
                 clipped-left>
             <v-app-bar-nav-icon></v-app-bar-nav-icon>
-            <v-toolbar-title>LPIV - Laboratório 04
+            <v-toolbar-title>LPIV - Laboratório 05 e 06
             </v-toolbar-title>
 
             <v-spacer></v-spacer>
